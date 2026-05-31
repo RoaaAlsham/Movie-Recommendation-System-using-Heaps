@@ -26,9 +26,9 @@ public class MainWindow extends javax.swing.JFrame {
         try {
 
             recommender = new Recommender(
-                    "/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/data/main_data.csv",
-                    "/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/data/movies.csv",
-                    "/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/data/target_user.csv"
+                    "src/data/main_data.csv",
+                    "src/data/movies.csv",
+                    "src/data/target_user.csv"
             );
 
             JTabbedPane tabbedPane =
