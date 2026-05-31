@@ -32,9 +32,9 @@ public class TestMain {
     public static void main(String[] args) {
         // ── File paths — adjust these to match your project structure ──
         // If running from the project root directory:
-        String mainDataPath    = "E:\\Projects\\Movie_Recommendation_System_using_Heaps\\src\\main\\java\\data\\main_data.csv";
-        String moviesPath      = "E:\\Projects\\Movie_Recommendation_System_using_Heaps\\src\\main\\java\\data\\movies.csv";
-        String targetUsersPath = "E:\\Projects\\Movie_Recommendation_System_using_Heaps\\src\\main\\java\\data\\target_user.csv";
+        String mainDataPath    = "src\\data\\main_data.csv";
+        String moviesPath      = "src\\data\\movies.csv";
+        String targetUsersPath = "src\\data\\target_user.csv";
 
         try {
             // ── Load everything ──────────────────────────────────────

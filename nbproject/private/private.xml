@@ -3,15 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/algorithm/Recommender.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/GUI/TargetUserPanel.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/algorithm/CosineSimilarity.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/heap/HeapNode.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/GUI/UIStyle.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/heap/MaxHeap.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/GUI/MovieRatingPanel.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/GUI/MainWindow.java</file>
-            <file>file:/Users/macbookpro/NetBeansProjects/Movie-Recomindation-System-using-Heaps/src/data/DataLoader.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/main/java/heap/MaxHeap.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/main/java/data/DataLoader.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/main/java/algorithm/CosineSimilarity.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/main/java/algorithm/Recommender.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/main/java/heap/HeapNode.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/test/java/TestMain.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/main/java/data/movies.csv</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/algorithm/CosineSimilarity.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/algorithm/Recommender.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/data/DataLoader.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/heap/MaxHeap.java</file>
+            <file>file:/E:/Projects/Movie_Recommendation_System_using_Heaps/src/heap/HeapNode.java</file>
         </group>
     </open-files>
 </project-private>
