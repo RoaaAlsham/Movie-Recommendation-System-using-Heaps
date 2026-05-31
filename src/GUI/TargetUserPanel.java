@@ -40,6 +40,9 @@ public class TargetUserPanel extends javax.swing.JPanel {
     UIStyle.styleTextField(kField);
 
     UIStyle.styleTextArea(resultArea);
+    UIStyle.styleLabel(jLabel1);
+    UIStyle.styleLabel(X);
+    UIStyle.styleLabel(TargetUser);    
    }
     
     private void loadUsers() {
